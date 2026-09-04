@@ -27,10 +27,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriEmanoel07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriEmanoel07&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-extended.vercel.app/api?username=YuriEmanoel07&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=YuriEmanoel07&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
 ---
@@ -43,8 +42,5 @@
   </a>
   <a href="mailto:yuriemanoel07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/5511943752035" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
