@@ -26,11 +26,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-extended.vercel.app/api?username=YuriEmanoel07&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=YuriEmanoel07&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+
+### 📊 Atividade no GitHub
+
+[![Estatísticas do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=YuriEmanoel07&theme=tokyonight)](https://github.com/YuriEmanoel07)
 
 ---
 
